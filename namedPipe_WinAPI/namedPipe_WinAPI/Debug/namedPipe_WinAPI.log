@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  namedPipe_WinAPI.cpp
+e:\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(43): warning C4307: '+': integral constant overflow
+e:\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(46): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 5 has type 'unsigned __int64'
+  e:\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(46): note: consider using '%llu' in the format string
+  e:\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(46): note: consider using '%I64u' in the format string
+  namedPipe_WinAPI.vcxproj -> E:\namedPipe_WinAPI\Debug\namedPipe_WinAPI.exe
