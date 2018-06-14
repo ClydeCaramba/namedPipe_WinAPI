@@ -1,16 +1,6 @@
-﻿  namedPipe_WinAPI.cpp
-e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(33): warning C4307: '+': integral constant overflow
-e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(28): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(28): note: consider using '%ls' in the format string
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(28): note: consider using '%lls' in the format string
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(28): note: consider using '%Ls' in the format string
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(28): note: consider using '%ws' in the format string
-e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(36): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(36): note: consider using '%ls' in the format string
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(36): note: consider using '%lls' in the format string
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(36): note: consider using '%Ls' in the format string
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(36): note: consider using '%ws' in the format string
-e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(36): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 5 has type 'unsigned __int64'
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(36): note: consider using '%llu' in the format string
-  e:\учеба\операционные среды\лабы\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(36): note: consider using '%I64u' in the format string
-  namedPipe_WinAPI.vcxproj -> E:\Учеба\Операционные среды\Лабы\namedPipe_WinAPI\Debug\namedPipe_WinAPI.exe
+﻿  stdafx.cpp
+  namedPipe_WinAPI.cpp
+e:\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(49): warning C4477: 'sprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 5 has type 'unsigned __int64'
+  e:\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(49): note: consider using '%llu' in the format string
+  e:\namedpipe_winapi\namedpipe_winapi\namedpipe_winapi.cpp(49): note: consider using '%I64u' in the format string
+  namedPipe_WinAPI.vcxproj -> E:\namedPipe_WinAPI\Debug\namedPipe_WinAPI.exe

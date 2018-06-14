@@ -1,2 +1,3 @@
-﻿  Client.cpp
-  Client.vcxproj -> E:\Учеба\Операционные среды\Лабы\namedPipe_WinAPI\Debug\Client.exe
+﻿  stdafx.cpp
+  Client.cpp
+  Client.vcxproj -> E:\namedPipe_WinAPI\Debug\Client.exe
